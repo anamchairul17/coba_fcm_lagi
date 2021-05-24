@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900298444763",
+    "project_id": "try-fcm-ff498",
+    "storage_bucket": "try-fcm-ff498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900298444763:android:dbec544fc0fd417558e1fe",
+        "android_client_info": {
+          "package_name": "com.practice.tryfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900298444763-td513972l43j5i5l831jj8fef3cut3j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR771nUAa6VRYzuouxjmaWgzApIlTNHWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900298444763-td513972l43j5i5l831jj8fef3cut3j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
